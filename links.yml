@@ -3,29 +3,29 @@
 ## 友情链接页面配置
 ################
 # 网站标题
-title: GenEasy
+title: 抛砖问答
 # 网站 LOGO（可选）
 # logo: https://webstack.cc/assets/images/logo@2x.png
 # 友情链接页面关键字（可选）
-keywords: 友情链接, GenEasy, Github, Github Pages, SSG
+keywords: 友情链接, 抛砖问答, 程序员, 问答, Stack Overflow, StackOverflow, Q&A
 # 友情链接描述（可选）
-description: 友情链接静态页面通用模板。
+description: 抛砖问答(PZWD)又称“P站问答“，是一个非商业性质的，独立的，开放的，程序员的问答社区。提供Stackoverflow最热门问题与答案。
 # 友情链接页面 URL（可选）
-url: https://geneasy.github.io/links/
+url: https://pzwd.net/links/
 # Favicon（可选）
-shortcut_icon: https://avatars.githubusercontent.com/u/91052735?s=70&v=4
+shortcut_icon: https://pzwd.net/assets/favicon-vbeszurg.png
 # 社交分享图片（可选）
-og_img: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
+og_img: https://pzwd.net/assets/site-image-swalecgq.png
 # 主页 URL
-home_url: https://github.com/geneasy/links
+home_url: https://pzwd.net/
 # GitHub 链接（可选）
-github_url: https://github.com/geneasy/links
+github_url: https://github.com/pzwd-net/links
 # 网站 about 链接（可选）
-about_url: https://github.com/geneasy/links
+about_url: https://pzwd.net/d/2
 # 交换链接的 URL
-link_exchange_url: https://github.com/geneasy/links/issues
+link_exchange_url: https://pzwd.net/d/6
 # Google Analytics Code（可选）
-# ga_tracking_code_id: G-ABCDEFG
+ga_tracking_code_id: G-NVLSZ9H45F
 
 ################
 ## 友情链接数据
@@ -34,41 +34,49 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
-      - title: P站问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
+      - title: Sanarous's Blog
+        logo: https://cdn.jsdelivr.net/gh/Sanarous/files/images/avatar.jpeg
+        url: https://bestzuo.cn/
+        description: Dream it possible, make it possible
+        tags: 程序员
+      - title: CAYZLH
+        logo: https://cdn.jsdelivr.net/gh/cayzlh/psychic-potato@master/logo/favicon-192x192.png
+        url: https://www.cayzlh.com/
+        description: 多读书，多看报，少吃零食多睡觉～
+        tags: 程序员
+      - title: 惜时如命
+        logo: https://iamazing.cn/icon512.png
+        url: https://iamazing.cn/
+        description: 用心去经营自己的个人博客，记录这一路上的思考与收获。
+        tags: 程序员
+      - title: 开往-友链接力
+        logo: https://travellings.link/assets/favicon.png
+        url: https://github.com/volfclub/travelling
+        description: “开往”取自“开放的网络”。将开往放入您的网页，表示您乐于分享并支持开放的网络。
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
         tags: 程序员,生活,创意
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
         tags: 程序员,生活,创意
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
 
   - category: 推荐
     hide_menu: true
     icon: linecons-star
     links:
-      - title: 抛砖问答
-        logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
-        url: https://pzwd.net/
-        description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
-        tags: 程序员,问答,社区,stackoverflow
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: 阮一峰的网络日志
+        logo: https://www.ruanyifeng.com/favicon.ico
+        url: https://www.ruanyifeng.com/blog/archives.html
+        description: 科技爱好者周刊 - 记录每周值得分享的科技内容，周五发布。
       - title: Pipecraft 社区
         logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
         url: https://discuss.cn.pipecraft.net/
@@ -83,22 +91,33 @@ categories:
   - category: 程序员博客
     icon: linecons-doc
     links:
+      - title: Sanarous's Blog
+        logo: https://cdn.jsdelivr.net/gh/Sanarous/files/images/avatar.jpeg
+        url: https://bestzuo.cn/
+        description: Dream it possible, make it possible
+        tags: 程序员
+      - title: CAYZLH
+        logo: https://cdn.jsdelivr.net/gh/cayzlh/psychic-potato@master/logo/favicon-192x192.png
+        url: https://www.cayzlh.com/
+        description: 多读书，多看报，少吃零食多睡觉～
+        tags: 程序员
+      - title: 惜时如命
+        logo: https://iamazing.cn/icon512.png
+        url: https://iamazing.cn/
+        description: 用心去经营自己的个人博客，记录这一路上的思考与收获。
+        tags: 程序员
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
         tags: 程序员,生活,创意
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
-        description: 快来交换友情链接吧
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
 
   - category: 设计师博客
@@ -110,15 +129,15 @@ categories:
         description: Webstack 的设计师
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
 
   - category: 个人博客
@@ -126,25 +145,25 @@ categories:
     links:
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://github.com/geneasy/links/issues
+        url: https://pzwd.net/d/6
         description: 快来交换友情链接吧
 
   - category: 社区
     icon: linecons-doc
     links:
-      - title: 抛砖问答
+      - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
         description: 抛砖问答(PZWD)是一个非商业性质的，独立的，开放的，程序员的问答社区。
@@ -153,6 +172,28 @@ categories:
         logo: https://indiehackers-1251406926.cos.ap-chengdu.myqcloud.com/hackers/7cl3u.png
         url: https://w2solo.com/
         description: 「w2solo.com」独立开发者社区，由众多独立开发者维护，致力于搭建和维护好国内独立开发者圈子和氛围。
+        tags: 独立开发者
+      - title: Ruby China
+        logo: https://l.ruby-china.com/photo/edafbc70e706f76f7ddc59fb4694fb86.png
+        url: https://ruby-china.org/
+        description: 由众多爱好者共同维护的 Ruby 中文社区。
+        tags: Ruby,社区
+      - title: 电鸭社区
+        logo: https://eleduck.com/static/favicon.ico
+        url: https://eleduck.com/
+        description: 电鸭社区是互联网工作者们的聚集地，我们倡导“只工作，不上班”的生活方式。
+        tags: 远程工作,社区
+      - title: V2EX
+        logo: https://www.v2ex.com/static/img/v2ex@2x.png
+        url: https://www.v2ex.com/?r=Pipecraft
+        display_url: https://www.v2ex.com/
+        description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
+        tags: 社区
+      - title: Laravel China 社区
+        logo: https://cdn.learnku.com//uploads/communities/WtC3cPLHzMbKRSZnagU9.png!/both/70x70
+        url: https://learnku.com/laravel
+        description: 我们是高品质的 Laravel 开发者社区，致力于为 Laravel 开发者提供一个分享创造、结识伙伴、协同互助的论坛。
+        tags: Laravel,社区
       - title: Pipecraft 社区
         logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
         url: https://discuss.cn.pipecraft.net/
@@ -177,13 +218,11 @@ categories:
         url: https://zh.pipecraft.net/
         description: 收集小而美的中文垂直社区，微社区，垂直网址导航的网址导航网站。
         tags: 网址导航,中文垂直社区,微社区,垂直网址导航
-      - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
-        description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
-        tags: RSS,Atom,聚合新闻,内容订阅
-      - title: GenEasy
-        logo: https://avatars.githubusercontent.com/u/91052735?s=200&v=4
-        url: https://github.com/geneasy/geneasy
-        description: A command line tool that can easily generate HTML, Markdown documents, etc.
-        tags: cli,tools
+      - title: 阮一峰的网络日志
+        logo: https://www.ruanyifeng.com/favicon.ico
+        url: https://www.ruanyifeng.com/blog/archives.html
+        description: 科技爱好者周刊 - 记录每周值得分享的科技内容，周五发布。
+      - title: 开往-友链接力
+        logo: https://travellings.link/assets/favicon.png
+        url: https://github.com/volfclub/travelling
+        description: “开往”取自“开放的网络”。将开往放入您的网页，表示您乐于分享并支持开放的网络。
