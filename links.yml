@@ -184,11 +184,16 @@ categories:
         description: 电鸭社区是互联网工作者们的聚集地，我们倡导“只工作，不上班”的生活方式。
         tags: 远程工作,社区
       - title: V2EX
-        logo: https://www.v2ex.com/static/img/v2ex@2x.png
+        logo: https://images.weserv.nl/?url=https://www.v2ex.com/static/img/v2ex@2x.png&w=60&h=60
         url: https://www.v2ex.com/?r=Pipecraft
         display_url: https://www.v2ex.com/
         description: V2EX 是创意工作者们的社区。这里目前汇聚了超过 400,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
         tags: 社区
+      - title: Flarum 中文社区
+        logo: https://discuss.flarum.org.cn/assets/favicon-mvffjom6.png
+        url: https://discuss.flarum.org.cn/
+        description: 欢迎访问 Flarum 中文站。Flarum 是一个优雅的轻论坛软件，简约界面回归社区本质。这里没有太多的条条框框规定，在这里你可以谈天说地，可以在最短的时间收集灵感，寻找有趣的东西。
+        tags: 社区,Flarum
       - title: Laravel China 社区
         logo: https://cdn.learnku.com//uploads/communities/WtC3cPLHzMbKRSZnagU9.png!/both/70x70
         url: https://learnku.com/laravel
@@ -204,6 +209,10 @@ categories:
         url: https://jukebox.pipecraft.net/
         description: 聚合程序员博客的宝盒，是一个非商业性质的，独立的，开放的，程序员社区。
         tags: 程序员,博客,社区
+      - title: Stack Overflow
+        logo: https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon@2.png?v=73d79a89bded
+        url: https://stackoverflow.com/?tab=week
+        description: Stack Overflow is the largest, most trusted online community for developers to learn, share their programming knowledge, and build their careers.
 
   - category: 友情推荐
     icon: linecons-doc
