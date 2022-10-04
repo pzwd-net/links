@@ -78,8 +78,8 @@ categories:
         url: https://www.ruanyifeng.com/blog/archives.html
         description: 科技爱好者周刊 - 记录每周值得分享的科技内容，周五发布。
       - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
       - title: 纵横网址导航
@@ -200,8 +200,8 @@ categories:
         description: 我们是高品质的 Laravel 开发者社区，致力于为 Laravel 开发者提供一个分享创造、结识伙伴、协同互助的论坛。
         tags: Laravel,社区
       - title: Pipecraft 社区
-        logo: https://discuss.cn.pipecraft.net/assets/favicon-jtrdedht.png
-        url: https://discuss.cn.pipecraft.net/
+        logo: https://discuss-cn.pipecraft.net/assets/favicon-jtrdedht.png
+        url: https://discuss-cn.pipecraft.net/
         description: 这里是可以自由交流关于 RSS, Atom, JSON Feed, 聚合新闻，内容订阅等话题的地方。
         tags: RSS,Atom,聚合新闻,内容订阅
       - title: 聚客盒
