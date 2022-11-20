@@ -34,6 +34,15 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
+      - title: BestXTools 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">X</text></svg>
+        url: https://discuss-cn.bestxtools.com/
+        description: 一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+        tags: 工具,社区
       - title: Sanarous's Blog
         logo: https://cdn.jsdelivr.net/gh/Sanarous/files/images/avatar.jpeg
         url: https://bestzuo.cn/
@@ -44,30 +53,19 @@ categories:
         url: https://www.cayzlh.com/
         description: 多读书，多看报，少吃零食多睡觉～
         tags: 程序员
-      - title: 惜时如命
-        logo: https://iamazing.cn/icon512.png
-        url: https://iamazing.cn/
-        description: 用心去经营自己的个人博客，记录这一路上的思考与收获。
-        tags: 程序员
-      - title: 开往-友链接力
-        logo: https://travellings.link/assets/favicon.png
-        url: https://github.com/volfclub/travelling
-        description: “开往”取自“开放的网络”。将开往放入您的网页，表示您乐于分享并支持开放的网络。
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://pzwd.net/d/6
-        description: 快来交换友情链接吧
-        tags: 程序员,生活,创意
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://pzwd.net/d/6
-        description: 快来交换友情链接吧
-        tags: 程序员,生活,创意
-
   - category: 推荐
     hide_menu: true
     icon: linecons-star
     links:
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
+      - title: BestXTools 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">X</text></svg>
+        url: https://discuss-cn.bestxtools.com/
+        description: 一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+        tags: 工具,社区
       - title: 聚客盒
         logo: https://jukebox.pipecraft.net/assets/favicon-brhoyfnr.png
         url: https://jukebox.pipecraft.net/
@@ -163,6 +161,15 @@ categories:
   - category: 社区
     icon: linecons-doc
     links:
+      - title: DTO 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
+        url: https://dto.pipecraft.net/
+        description: DTO 是一个只讨论技术话题的程序员社区。它是一个类似 Hacker News, Lobsters 的链接分享社区，在这里只可以分享与程序开发相关的链接与内容。
+      - title: BestXTools 社区
+        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">X</text></svg>
+        url: https://discuss-cn.bestxtools.com/
+        description: 一个发现并分享有趣，有创意，免费、好用的工具的非商业性质的，独立的，开放的社区。
+        tags: 工具,社区
       - title: P站问答
         logo: https://pzwd.net/assets/avatars/hVgLBGkh1gxRpWiR.png
         url: https://pzwd.net/
