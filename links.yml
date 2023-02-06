@@ -34,6 +34,11 @@ categories:
   - category: 新添加
     icon: linecons-star
     links:
+      - title: Monody
+        logo: https://www.monody.net/favicon.ico
+        url: https://www.monody.net/
+        description: BE A MACHINE
+        tags: 程序员
       - title: DTO 社区
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">D</text></svg>
         url: https://dto.pipecraft.net/
@@ -47,11 +52,6 @@ categories:
         logo: https://cdn.jsdelivr.net/gh/Sanarous/files/images/avatar.jpeg
         url: https://bestzuo.cn/
         description: Dream it possible, make it possible
-        tags: 程序员
-      - title: CAYZLH
-        logo: https://cdn.jsdelivr.net/gh/cayzlh/psychic-potato@master/logo/favicon-192x192.png
-        url: https://www.cayzlh.com/
-        description: 多读书，多看报，少吃零食多睡觉～
         tags: 程序员
   - category: 推荐
     hide_menu: true
@@ -104,10 +104,11 @@ categories:
         url: https://iamazing.cn/
         description: 用心去经营自己的个人博客，记录这一路上的思考与收获。
         tags: 程序员
-      - title: 等你来加➕
-        logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
-        url: https://pzwd.net/d/6
-        description: 快来交换友情链接吧
+      - title: Monody
+        logo: https://www.monody.net/favicon.ico
+        url: https://www.monody.net/
+        description: BE A MACHINE
+        tags: 程序员
       - title: 等你来加➕
         logo: data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><text y="0.9em" x="0.1em" font-size="90">G</text></svg>
         url: https://pzwd.net/d/6
